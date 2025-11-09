@@ -26,7 +26,6 @@ I enjoy building scalable AI systems — from data pipelines to LLM-powered agen
 | [**dbt_101**](https://github.com/AMMISAIDFaical/dbt_101) | Getting started with dbt and modular data transformation. | dbt, SQL |
 | [**Paris_Airbnb_Study**](https://github.com/AMMISAIDFaical/Paris_Airbnb_Study) | Exploratory analysis of Airbnb reviews in Paris and France. | Jupyter, Pandas |
 | [**Basic-Attention-Unet-ATLDS-apple-leaf-diseases-dataset-Semantic-Segmentation**](https://github.com/AMMISAIDFaical/Basic-Attention-Unet-ATLDS-apple-leaf-diseases-dataset-Semantic-Segmentation) | Semantic segmentation of plant diseases using Attention U-Net. | PyTorch, CV, U-Net |
-| [**faicalportfolio**](https://github.com/AMMISAIDFaical/faicalportfolio) | Personal portfolio website showcasing data and AI projects. | HTML, CSS, JS |
 
 ---
 
