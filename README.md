@@ -1,7 +1,7 @@
 # Hi, I’m Faical Ammisaid
 
 I’m a **Data & AI Engineer** specializing in **MLOps, Cloud Data Engineering**, and **Generative AI**.  
-I enjoy building scalable AI systems — from data pipelines to LLM-powered agents — with a focus on **reproducibility, automation, and deployment** in the cloud.
+I enjoy building scalable AI systems: from data pipelines to LLM-powered agents. with a focus on **reproducibility, automation, and deployment** in the cloud.
 
 ---
 
